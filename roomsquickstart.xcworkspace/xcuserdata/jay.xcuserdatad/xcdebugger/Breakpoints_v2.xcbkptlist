@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0BA1E308-396C-41BE-9788-C99CCD873973"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C94FD124-E8B1-41AA-92C5-8D1436833380"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "roomsquickstart/Views/HomePageView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "207"
+            endingLineNumber = "207"
+            landmarkName = "joinRoomCall()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "48C34332-7334-41F8-8D24-10A91FA11DF3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "roomsquickstart/Views/HomePageView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "258"
+            endingLineNumber = "258"
+            landmarkName = "setCallAndObserver(call:error:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "783F081D-1B69-49E8-AF7A-F314923634E7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "roomsquickstart/Views/HomePageView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "302"
+            endingLineNumber = "302"
+            landmarkName = "call(_:didChangeState:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F8AB9B7E-24DF-4D4E-AF3B-A672CC5388B0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "roomsquickstart/Views/HomePageView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "319"
+            endingLineNumber = "319"
+            landmarkName = "handleInitialCallState(call:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F8AB9B7E-24DF-4D4E-AF3B-A672CC5388B0 - e79ab808717381b3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "roomsquickstart.CallObserver.handleInitialCallState(call: __C.ACSCall) -&gt; ()"
+                  moduleName = "roomsquickstart"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jay/Downloads/communication-services-ios-quickstarts-main%203/join-room-call/roomsquickstart/Views/HomePageView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "320"
+                  endingLineNumber = "320"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "F8AB9B7E-24DF-4D4E-AF3B-A672CC5388B0 - e79ab80871738190"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "roomsquickstart.CallObserver.handleInitialCallState(call: __C.ACSCall) -&gt; ()"
+                  moduleName = "roomsquickstart"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jay/Downloads/communication-services-ios-quickstarts-main%203/join-room-call/roomsquickstart/Views/HomePageView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "319"
+                  endingLineNumber = "319"
+                  offsetFromSymbolStart = "112">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "206926B7-2211-498F-89BD-149EA3CDE1C9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "roomsquickstart/Views/HomePageView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "356"
+            endingLineNumber = "356"
+            landmarkName = "call(_:didUpdateRemoteParticipant:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "206926B7-2211-498F-89BD-149EA3CDE1C9 - 598fda5048037c12"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "roomsquickstart.CallObserver.call(_: __C.ACSCall, didUpdateRemoteParticipant: __C.ACSParticipantsUpdatedEventArgs) -&gt; ()"
+                  moduleName = "roomsquickstart"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jay/Downloads/communication-services-ios-quickstarts-main%203/join-room-call/roomsquickstart/Views/HomePageView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "358"
+                  endingLineNumber = "358"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "206926B7-2211-498F-89BD-149EA3CDE1C9 - bdc369998cc53a7e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;roomsquickstart.Participant&gt;) -&gt; () in roomsquickstart.CallObserver.call(_: __C.ACSCall, didUpdateRemoteParticipant: __C.ACSParticipantsUpdatedEventArgs) -&gt; ()"
+                  moduleName = "roomsquickstart"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jay/Downloads/communication-services-ios-quickstarts-main%203/join-room-call/roomsquickstart/Views/HomePageView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "359"
+                  endingLineNumber = "359"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "206926B7-2211-498F-89BD-149EA3CDE1C9 - 598fda5048037c54"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "roomsquickstart.CallObserver.call(_: __C.ACSCall, didUpdateRemoteParticipant: __C.ACSParticipantsUpdatedEventArgs) -&gt; ()"
+                  moduleName = "roomsquickstart"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jay/Downloads/communication-services-ios-quickstarts-main%203/join-room-call/roomsquickstart/Views/HomePageView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "356"
+                  endingLineNumber = "356"
+                  offsetFromSymbolStart = "120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7C6D6025-7D2B-47F7-BF49-FEBA685948A8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "roomsquickstart/Views/HomePageView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "138"
+            endingLineNumber = "138"
+            landmarkName = "initialize()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DD817AAE-ECED-4845-8A94-5E43A5B9B483"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "roomsquickstart/CallHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "initialize(token:owner:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
